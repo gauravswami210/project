@@ -2,6 +2,6 @@
 
 class Simple{
 	public static void main(String args[]){
-		system.out.println("Heyy!!!");
-	}
+		System.out.println("Heyy!!!");
+ 	}
 }
